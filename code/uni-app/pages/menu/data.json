@@ -1,0 +1,92 @@
+{
+	"data":[
+			{
+				"classify" : "人气Top",
+				"state": "本周销量领先",
+				"shopData": [
+					{
+						"id": "shop01",
+						"title": "苹果",
+						"en": "Apple",
+						"imgurl":"../../static/shop_apple.jpg",
+						"kind": [
+							{
+								"name": "规格",
+								"type": ["大"],
+								"selected": 0
+							}
+						],
+						"price": "27"
+					},
+					{
+						"id": "shop02",
+						"title": "香蕉",
+						"imgurl":"../../static/shop_banana.jpg",
+						"en": "Banana",
+						"kind": [
+							{
+								"name": "规格",
+								"type": "大",
+								"selected": 0
+							}
+						],
+						"price": "24"
+					}
+				]
+			},
+			{
+				"classify" : "全部水果",
+				"state": "",
+				"shopData": [
+					{
+						"id": "shop03",
+						"title": "苹果",
+						"en": "Apple",
+						"imgurl":"../../static/shop_apple.jpg",
+						"kind": [
+							{
+								"name": "规格",
+								"type": "大",
+								"selected": 0
+							}
+						],
+						"price": "24"
+					},
+					{
+						"id": "shop04",
+						"title": "香蕉",
+						"en": "Banana",
+						"imgurl":"../../static/shop_banana.jpg",
+						"kind": [
+							{
+								"name": "规格",
+								"type": "大",
+								"selected": 0
+							}
+							
+						],
+						"price": "27"
+					},
+					{
+						"id": "shop05",
+						"title": "橙子",
+						"en": "Orange",
+						"imgurl":"../../static/shop_orange.jpg",
+						"kind": [
+							{
+								"name": "规格",
+								"type": "大",
+								"selected": 0
+							}
+							
+						],
+
+						"price": "27"
+					}
+				]
+			}
+			
+			
+			
+	]
+}
